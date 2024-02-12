@@ -64,7 +64,7 @@ float: none;
 text-align: center;
 text-decoration: underline;
 text-decoration-color: green;
-background-image: linear-gradient(rgb(166, 163, 168), rgba(0, 213, 255, 0.815));
+background-image: linear-gradient(rgb(166, 163, 168),rgba(7, 59, 69, 0.815));
 position: relative;
 top: 50%;
 transform:translateY(-50%) ;
