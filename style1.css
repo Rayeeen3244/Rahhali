@@ -61,6 +61,7 @@ header h1{
     transform:translateY(0px) ;
 }
 footer p{
+color:white;
 float: none;
 text-align: center;
 text-decoration: underline;
