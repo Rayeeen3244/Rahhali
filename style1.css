@@ -25,6 +25,8 @@ footer{
     float: left;
     position: relative;
     background-image: linear-gradient(rgb(49, 22, 85), rgb(0, 0, 0));
+}
+    
 aside{
     width: 10%;
     height: 70%;
