@@ -11,8 +11,7 @@ header{
     width: 100%;
     height: 20%;
     position: relative;
-    background-color:rgb(10, 3, 32);
-}
+    background-image: linear-gradient(rgb(35, 5, 55), rgba(4, 8, 126, 0.815));
 section{
 width: 70%;
 height: 70%;
