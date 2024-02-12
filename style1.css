@@ -24,8 +24,7 @@ footer{
     height: 10%;
     float: left;
     position: relative;
-    background-color: rgb(10, 3, 32);
-}
+    background-image: linear-gradient(rgb(49, 22, 85), rgb(0, 0, 0));
 aside{
     width: 10%;
     height: 70%;
@@ -64,7 +63,7 @@ float: none;
 text-align: center;
 text-decoration: underline;
 text-decoration-color: green;
-background-image: linear-gradient(rgb(166, 163, 168),rgba(7, 59, 69, 0.815));
+background-image: linear-gradient(rgb(166, 163, 168),rgba(8, 5, 67, 0.815));
 position: relative;
 top: 50%;
 transform:translateY(-50%) ;
