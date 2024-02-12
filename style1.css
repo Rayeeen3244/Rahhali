@@ -11,7 +11,8 @@ header{
     width: 100%;
     height: 20%;
     position: relative;
-    background-image: linear-gradient(rgba(64, 18, 95, 0.716), rgba(0, 0, 0, 0.815));
+    background-image: linear-gradient(rgb(32, 0, 53), rgba(0, 0, 0, 0.815));
+}
 }
 section{
 width: 70%;
