@@ -18,7 +18,7 @@ section{
 width: 70%;
 height: 70%;
 float: left;
-background-image: url(ray.jpg);
+
 }
 footer{
     width: 100%;
@@ -73,7 +73,7 @@ top: 50%;
 transform:translateY(-50%) ;
 }
 .fond{
-    background-color: rgba(113, 116, 125, 0.541);
+    background-color: white;
 }
 a:link{
     color: red;
